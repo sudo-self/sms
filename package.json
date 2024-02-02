@@ -1,0 +1,25 @@
+{
+  "name": "sms.jessejesse.com",
+  "version": "1.0.0",
+  "description": "An htmx chat app featuring tailwindcss and daisyui",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Roper",
+  "license": "MIT",
+  "dependencies": {
+    "theme-change": "^2.5.0",
+    "vercel": "^33.4.1"
+  },
+  "devDependencies": {
+    "daisyui": "^4.6.1",
+    "tailwindcss": "^3.4.1"
+  },
+  "keywords": [
+    "sms",
+    "jessejesse",
+    "guest",
+    "visitor"
+  ]
+}
